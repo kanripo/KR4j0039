@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 龍川詞
+#+DATE: 2015-08-25 00:48:10.711152
+#+PROPERTY: ID KR4j0039
+#+PROPERTY: BASEEDITION WYG    
